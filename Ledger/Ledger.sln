@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ledger", "Ledger\Ledger.csproj", "{57FE3136-4F15-4187-805B-D0892847E2F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LedgerTests", "LedgerTests\LedgerTests.csproj", "{D98AFE84-100B-442D-B7E3-6A5802CCCCEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FE3136-4F15-4187-805B-D0892847E2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FE3136-4F15-4187-805B-D0892847E2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FE3136-4F15-4187-805B-D0892847E2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FE3136-4F15-4187-805B-D0892847E2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98AFE84-100B-442D-B7E3-6A5802CCCCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98AFE84-100B-442D-B7E3-6A5802CCCCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98AFE84-100B-442D-B7E3-6A5802CCCCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98AFE84-100B-442D-B7E3-6A5802CCCCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
